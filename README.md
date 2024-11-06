@@ -5,6 +5,8 @@
 ## Table of contents 
 - [General info](#general-info)
 - [Technologies](#technologies)
+- [Features](#features)
+- [Screenshots](#screenshots)
 - [Setup](#setup)
 - [Status](#setup)
 - [Status](#status)
@@ -30,11 +32,11 @@
 - Design 1:
 <img width="797" alt="Screen Shot 2024-11-06 at 6 08 27 pm" src="https://github.com/user-attachments/assets/91e7b192-6a60-4528-a6ac-9219cb929a16">
 
+- Design 2: 
+<img width="795" alt="Screen Shot 2024-11-06 at 6 10 41 pm" src="https://github.com/user-attachments/assets/b8484438-d37e-4861-8d90-14069c5f7e20">
 
-
-
-
-
+- Design 3: 
+<img width="798" alt="Screen Shot 2024-11-06 at 6 11 18 pm" src="https://github.com/user-attachments/assets/c11ba8de-91dc-4aeb-8c69-db01d21dcf5f">
 
 # Setup
 - This project includes the art templates for the paint by numbers art.
@@ -43,9 +45,16 @@
 # Status 
 - Project status: Complete
 
+# Acknowledgements 
+- This project was inspired by job working in a nursing home as well as the studies supporting the benefits of paint by numbers art and the elderly. 
+
 # Room for improvement 
 - Could make/include more art designs templates than the stated amount (more than three designs).
-- Could add in more details for each design. 
+- Could add in more details for each design.
+
+# Contact 
+- Created by Liv Bjorkli-Rerceretnam
+- Feel free to contact me through email: liv.j.bjorkli-rerceretnam@student.uts.edu.au
 
 
 
