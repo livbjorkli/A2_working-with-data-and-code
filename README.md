@@ -41,6 +41,7 @@
 # Setup
 - This project includes the art templates for the paint by numbers art.
 - Opening the attached documents will lead to the designs.
+  * Print of each design, and begin painting matching the numbers with the associated colours. 
 
 # Status 
 - Project status: Complete
